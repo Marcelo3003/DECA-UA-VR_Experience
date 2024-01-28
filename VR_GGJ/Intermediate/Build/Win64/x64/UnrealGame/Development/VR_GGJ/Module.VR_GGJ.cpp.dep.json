@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\apps\\vr_ggj\\intermediate\\build\\win64\\x64\\unrealgame\\development\\vr_ggj\\module.vr_ggj.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\apps\\vr_ggj\\intermediate\\build\\win64\\x64\\vr_ggj\\development\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "e:\\apps\\vr_ggj\\intermediate\\build\\win64\\x64\\unrealgame\\development\\vr_ggj\\definitions.vr_ggj.h",
+            "e:\\apps\\vr_ggj\\intermediate\\source\\vr_ggj.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

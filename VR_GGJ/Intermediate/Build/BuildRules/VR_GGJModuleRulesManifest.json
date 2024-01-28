@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"E:\\Apps\\VR_GGJ\\Intermediate\\Source\\VR_GGJ.Build.cs",
+		"E:\\Apps\\VR_GGJ\\Intermediate\\Source\\VR_GGJ.Target.cs",
+		"E:\\Apps\\VR_GGJ\\Intermediate\\Source\\VR_GGJClient.Target.cs",
+		"E:\\Apps\\VR_GGJ\\Intermediate\\Source\\VR_GGJEditor.Target.cs",
+		"E:\\Apps\\VR_GGJ\\Intermediate\\Source\\VR_GGJServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
