@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"E:/GitHub Repo/DECA-UA-VR_Experience/VR_GGJ/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"E:/GitHub Repo/DECA-UA-VR_Experience/VR_GGJ/Content/3D_Objects/Material/Fire_INSTANCE.uasset",
+				"E:/GitHub Repo/DECA-UA-VR_Experience/VR_GGJ/Content/MainMenu.umap",
+				"E:/GitHub Repo/DECA-UA-VR_Experience/VR_GGJ/Content/Menu.uasset",
 				"E:/Apps/VR_GGJ/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"E:/Apps/VR_GGJ/Content/3D_Objects/UA_Building_2.uasset",
 				"E:/Apps/VR_GGJ/Content/3D_Objects/Buidling_INST.uasset",
